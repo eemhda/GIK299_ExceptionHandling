@@ -1,0 +1,15 @@
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\bin\Debug\net7.0\GIK299_HT23_ExceptionHandling.exe
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\bin\Debug\net7.0\GIK299_HT23_ExceptionHandling.deps.json
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\bin\Debug\net7.0\GIK299_HT23_ExceptionHandling.runtimeconfig.json
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\bin\Debug\net7.0\GIK299_HT23_ExceptionHandling.dll
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\bin\Debug\net7.0\GIK299_HT23_ExceptionHandling.pdb
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.AssemblyInfo.cs
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.dll
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\refint\GIK299_HT23_ExceptionHandling.dll
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.pdb
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\GIK299_HT23_ExceptionHandling.genruntimeconfig.cache
+C:\Users\eem\source\repos\GIK299_HT23_ExceptionHandling\GIK299_HT23_ExceptionHandling\obj\Debug\net7.0\ref\GIK299_HT23_ExceptionHandling.dll
